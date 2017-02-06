@@ -43,12 +43,6 @@
      <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.Abstractions\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.xml" target="lib\MonoAndroid10\AdvancedTimer.Forms.Plugin.Abstractions.xml" />
      <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.Abstractions\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.pdb" target="lib\MonoAndroid10\AdvancedTimer.Forms.Plugin.Abstractions.pdb" />
 
-     <!--Xamarin.iOS-->
-     <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.iOS\bin\iPhone\Release\AdvancedTimer.Forms.Plugin.iOS.dll" target="lib\MonoTouch10\AdvancedTimer.Forms.Plugin.iOS.dll" />
-     <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.iOS\bin\iPhone\Release\AdvancedTimer.Forms.Plugin.iOS.xml" target="lib\MonoTouch10\AdvancedTimer.Forms.Plugin.iOS.xml" />
-     <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.Abstractions\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.dll" target="lib\MonoTouch10\AdvancedTimer.Forms.Plugin.Abstractions.dll" />
-     <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.Abstractions\bin\Release\AdvancedTimer.Forms.Plugin.Abstractions.xml" target="lib\MonoTouch10\AdvancedTimer.Forms.Plugin.Abstractions.xml" />
-
      <!--Xamarin.iOSUnified-->
      <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.iOSUnified\bin\iPhone\Release\AdvancedTimer.Forms.Plugin.iOSUnified.dll" target="lib\Xamarin.iOS10\AdvancedTimer.Forms.Plugin.iOSUnified.dll" />
      <file src="AdvancedTimer\AdvancedTimer.Forms.Plugin.iOSUnified\bin\iPhone\Release\AdvancedTimer.Forms.Plugin.iOSUnified.xml" target="lib\Xamarin.iOS10\AdvancedTimer.Forms.Plugin.iOSUnified.xml" />
